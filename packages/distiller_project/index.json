@@ -1,0 +1,15 @@
+{
+  "package": "distiller_project",
+  "entry_count": 1,
+  "entries": [
+    {
+      "id": "obs-0001-62029c499b224c2f89a177d78d04bb35",
+      "type": "observation",
+      "timestamp": "2026-11-15T22:53:02Z",
+      "last_updated": "2026-11-15T22:53:02Z",
+      "title": "Could not connect to the Distiller Project Capella model (https://github.com/salai93/Distiller-Project, branch master)",
+      "tags": [],
+      "file_path": "entries/obs-0001-62029c499b224c2f89a177d78d04bb35.md"
+    }
+  ]
+}
