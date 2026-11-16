@@ -5,5 +5,13 @@
   "branch": "main",
   "created_at": "2026-11-16T12:18:39Z",
   "engineer": "Tony Komar",
-  "outputs": []
+  "outputs": [
+    {
+      "name": "39d5dc2b-a3a8-46bd-b451-23190d8af9c1__context_diagram__1350169.html",
+      "type": "html",
+      "artifact_id": "dfbcfdaa-f0b3-4098-a144-66cfa9eaface",
+      "package": "capella_views",
+      "written_at": "2026-11-16T12:18:42Z"
+    }
+  ]
 }
