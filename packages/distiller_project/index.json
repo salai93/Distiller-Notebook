@@ -1,6 +1,6 @@
 {
   "package": "distiller_project",
-  "entry_count": 6,
+  "entry_count": 7,
   "entries": [
     {
       "id": "obs-0001-62029c499b224c2f89a177d78d04bb35",
@@ -55,6 +55,15 @@
       "title": "## Teamcenter publication error on physical link \"Buttons/Knobs\"",
       "tags": [],
       "file_path": "entries/obs-0005-3b456d730fa348b7bc44fbc05a371ba0.md"
+    },
+    {
+      "id": "obs-0006-a46ba4c586d94dd0a0cb9c0d4c25a547",
+      "type": "observation",
+      "timestamp": "2026-11-16T12:19:03Z",
+      "last_updated": "2026-11-16T12:19:03Z",
+      "title": "# PA Functional Chain \"Distiller Operation\" \u2014 report for simulation scoping",
+      "tags": [],
+      "file_path": "entries/obs-0006-a46ba4c586d94dd0a0cb9c0d4c25a547.md"
     }
   ]
 }
