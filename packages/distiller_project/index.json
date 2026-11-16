@@ -1,6 +1,6 @@
 {
   "package": "distiller_project",
-  "entry_count": 5,
+  "entry_count": 6,
   "entries": [
     {
       "id": "obs-0001-62029c499b224c2f89a177d78d04bb35",
@@ -46,6 +46,15 @@
       "title": "## Fixed naming typos from OBS-0004",
       "tags": [],
       "file_path": "entries/dec-0001-c4369e59d5394b5c81906068ed8bf200.md"
+    },
+    {
+      "id": "obs-0005-3b456d730fa348b7bc44fbc05a371ba0",
+      "type": "observation",
+      "timestamp": "2026-11-16T03:19:13Z",
+      "last_updated": "2026-11-16T03:19:13Z",
+      "title": "## Teamcenter publication error on physical link \"Buttons/Knobs\"",
+      "tags": [],
+      "file_path": "entries/obs-0005-3b456d730fa348b7bc44fbc05a371ba0.md"
     }
   ]
 }
