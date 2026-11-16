@@ -1,6 +1,6 @@
 {
   "package": "distiller_project",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "id": "obs-0001-62029c499b224c2f89a177d78d04bb35",
@@ -19,6 +19,15 @@
       "title": "## OA review: \"Consume Safe Drinking Water\" operational process",
       "tags": [],
       "file_path": "entries/obs-0002-b811249e8f1c41df96986f739897ab06.md"
+    },
+    {
+      "id": "obs-0003-36bd41a144c940f2b76bd538e249f520",
+      "type": "observation",
+      "timestamp": "2026-11-16T01:22:57Z",
+      "last_updated": "2026-11-16T01:22:57Z",
+      "title": "## Impact map: OA \"Consume Safe Drinking Water\" \u2192 Physical Architecture",
+      "tags": [],
+      "file_path": "entries/obs-0003-36bd41a144c940f2b76bd538e249f520.md"
     }
   ]
 }
