@@ -1,6 +1,6 @@
 {
   "package": "distiller_project",
-  "entry_count": 9,
+  "entry_count": 10,
   "entries": [
     {
       "id": "obs-0001-62029c499b224c2f89a177d78d04bb35",
@@ -90,6 +90,19 @@
       ],
       "tags": [],
       "file_path": "entries/dec-0002-2aca14b091b24c629f761d9a8002f52f.md"
+    },
+    {
+      "id": "obs-0008-4c9bcf7e14fb41f1a9e75c4a6a1c80d3",
+      "type": "observation",
+      "timestamp": "2026-11-17T15:42:37Z",
+      "last_updated": "2026-11-17T15:42:37Z",
+      "title": "## LA component DSM: findings",
+      "author": "Claude (Cartenza)",
+      "contributors": [
+        "Claude (Cartenza)"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0008-4c9bcf7e14fb41f1a9e75c4a6a1c80d3.md"
     }
   ]
 }
