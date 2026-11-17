@@ -1,6 +1,6 @@
 {
   "package": "distiller_project",
-  "entry_count": 10,
+  "entry_count": 11,
   "entries": [
     {
       "id": "obs-0001-62029c499b224c2f89a177d78d04bb35",
@@ -103,6 +103,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0008-4c9bcf7e14fb41f1a9e75c4a6a1c80d3.md"
+    },
+    {
+      "id": "obs-0009-de0197560f504aba992ed32120124d1c",
+      "type": "observation",
+      "timestamp": "2026-11-17T15:46:00Z",
+      "last_updated": "2026-11-17T15:46:00Z",
+      "title": "## LA DSM optimization and recommendations (proposal, not applied)",
+      "author": "Claude (Cartenza)",
+      "contributors": [
+        "Claude (Cartenza)"
+      ],
+      "tags": [],
+      "file_path": "entries/obs-0009-de0197560f504aba992ed32120124d1c.md"
     }
   ]
 }
