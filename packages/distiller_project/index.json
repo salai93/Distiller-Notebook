@@ -1,6 +1,6 @@
 {
   "package": "distiller_project",
-  "entry_count": 8,
+  "entry_count": 9,
   "entries": [
     {
       "id": "obs-0001-62029c499b224c2f89a177d78d04bb35",
@@ -77,6 +77,19 @@
       ],
       "tags": [],
       "file_path": "entries/obs-0007-8a55a189d52d489392a0513d02322fed.md"
+    },
+    {
+      "id": "dec-0002-2aca14b091b24c629f761d9a8002f52f",
+      "type": "decision",
+      "timestamp": "2026-11-17T15:35:37Z",
+      "last_updated": "2026-11-17T15:35:37Z",
+      "title": "## Added descriptions to PA node components",
+      "author": "Claude (Cartenza)",
+      "contributors": [
+        "Claude (Cartenza)"
+      ],
+      "tags": [],
+      "file_path": "entries/dec-0002-2aca14b091b24c629f761d9a8002f52f.md"
     }
   ]
 }
